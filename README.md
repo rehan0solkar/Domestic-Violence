@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8B0000&height=120&section=header"/>
-
-# Domestic Violence Awareness Website
+<h1 align="center">Domestic Violence Awareness Website</h1>
+<h3 align="center">Spreading Awareness | Legal Rights | Support</h3>
 An educational static website created to spread awareness about domestic violence, legal rights, and available support resources.
 
 ---
