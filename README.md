@@ -1,5 +1,4 @@
 # Domestic Violence Awareness Website
-
 An educational static website created to spread awareness about domestic violence, legal rights, and available support resources.
 
 ---
@@ -18,10 +17,9 @@ The project is built as a static website using HTML, CSS, and JavaScript.
 ---
 
 ## 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
+- ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)<br>
+- ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)<br>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)<br>
 - GitHub Pages (for deployment)
 
 ---
